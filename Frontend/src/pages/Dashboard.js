@@ -191,7 +191,7 @@ function Dashboard() {
                 ₹{purchaseAmount}{" "}
               </span>
 
-              <span className="text-xs text-gray-500"> from ₹404.32 </span>
+              <span className="text-xs text-gray-500"> from ₹9404.32 </span>
             </p>
           </div>
         </article>
@@ -275,7 +275,7 @@ function Dashboard() {
             />
           </div>
           <div>
-            <Doughnut data={data} />
+            {/* <Doughnut data={data} /> */}
           </div>
         </div>
       </div>
